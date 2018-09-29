@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activity 5</string>
+
+    <string name="edit_text_notification_title">An awesome person wrote this:</string>
+
+    <string name="activity">Activity</string>
+    <string name="activity_description">They dictate the UI and handle the user interaction to the smart phone screen</string>
+    <string name="service">Service</string>
+    <string name="service_description">They handle background processing associated with an application</string>
+    <string name="broadcast_receiver">Broadcast Receiver</string>
+    <string name="broadcast_receiver_description">They handle communication between Android OS and applications</string>
+    <string name="content_provider">Content Provider</string>
+    <string name="content_provider_description">They handle data and database management issues</string>
+</resources>
